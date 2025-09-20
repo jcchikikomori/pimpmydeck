@@ -19,7 +19,7 @@ function App() {
     }
   })
   const header = <Header
-    title={"Steam Deck Resources"}
+    title={"Pimp My Deck!"}
     links={resourceKeys}
     setDarkMode={setDarkMode}
   />;
