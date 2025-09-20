@@ -1,6 +1,6 @@
 {
-  "name": "sdeck.wiki",
-  "homepage": "https://sdeck.wiki/",
+  "name": "pimpmydeck",
+  "homepage": "https://jcchikikomori.github.io/pimpmydeck",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
